@@ -1,0 +1,5 @@
+{
+  "name": "Textbook Transcriber",
+  "description": "An intelligent document processing tool that converts PDF textbooks into structured spreadsheets using Gemini AI. It automatically identifies chapters, topics, and content while filtering out non-essential sections like prefaces and bibliographies.",
+  "requestFramePermissions": []
+}
